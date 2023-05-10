@@ -1,0 +1,29 @@
+{
+    "employee":[
+        {   "id":1,
+            "name":"Eli",
+            "surname":"Cebiyev",
+            "age":21,
+            "salary":2000,
+            "position":"high"
+        },{ "id":2,
+            "name":"Veli",
+            "surname":"Hemidov",
+            "age":20,
+            "salary":1000,
+            "position":"teacher"
+        },{ "id":3,
+            "name":"Samir",
+            "surname":"Esedov",
+            "age":22,
+            "salary":3000,
+            "position":"dentist"
+        },{ "id":4,
+            "name":"Kenan",
+            "surname":"Memmedov",
+            "age":26,
+            "salary":1700,
+            "position":"doctor"
+        }
+    ]
+}
